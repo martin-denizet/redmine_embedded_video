@@ -3,6 +3,12 @@ Redmine Embedded Video Plugin
 
 This is a Redmine plugin that allows to insert a Flash video player in Redmine.
 
+Features
+--------
+
+* Embedded .flv, .f4v videos in Issues and Wiki
+* Quick insertion with a button in the Wiki toolbar
+
 Installation
 ------------
 

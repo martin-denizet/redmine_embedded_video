@@ -1,0 +1,9 @@
+Version 0.1.0 - 2011/12/21
+--------------------------
+
+* Bugfix:Allow to specify the size of the video per video
+* Import only 1 time the swfobject.js
+* Add the button in the Wiki toolbar
+* Organize the assets
+* Use relative path for the video and assets
+* Improve the message displayed when Flashplayer is not installed
