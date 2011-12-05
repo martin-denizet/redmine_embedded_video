@@ -1,0 +1,11 @@
+Based on Andrew Chaika's  redmine_embedded_video plugin: http://www.redmine.org/issues/5171.
+Using a patch by Patrick Fratczak.
+Modified by Martin Denizet.
+
+Contains:
+
+JW Player for Flash, licensed under Creative Commons License.
+See more details: http://www.longtailvideo.com/
+
+Icon from Yusuke Kamiyamane's Fugue Icons set: http://p.yusukekamiyamane.com, Licensed under CC Attribution 3.0
+See more details: http://www.iconarchive.com/icons/yusuke-kamiyamane/fugue/README.txt
