@@ -4,9 +4,11 @@ require 'embedded_video_asset_tag_helper_patch'
 
 Redmine::Plugin.register :redmine_embedded_video do
   name 'Redmine Embedded Video'
-  author 'Nikolay Kotlyarov'
-  description 'This is a plugin for embedding flv video'
-  version '0.0.1'
+  author 'Martin Denizet'
+  author_url 'https://github.com/martin-denizet'
+  url 'https://github.com/martin-denizet/redmine_embedded_video'
+  description 'This is a plugin orginaly written by Nikolay Kotlyarov for embedding flv video'
+  version '0.1.0'
 end
 
 Redmine::WikiFormatting::Macros.register do
